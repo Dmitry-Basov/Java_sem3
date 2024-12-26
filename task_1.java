@@ -14,3 +14,5 @@ public class task_1 {
         System.out.println(s1==s6);
     }
 }
+
+// .equalsIgnoreCase - игнорирует разницу в регистре
